@@ -47,6 +47,6 @@ print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
-![output](
+![output](https://github.com/KathirvelAIDS/Web_server/blob/main/Screenshot%20(26).png?raw=true)
 ## RESULT:
 Webserver running successfully
